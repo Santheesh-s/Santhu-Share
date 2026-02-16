@@ -1,0 +1,4 @@
+# Generated 2025-09-14 10:27:40.188375
+toga-android~=0.5.0
+segno
+pypng
